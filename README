@@ -1,0 +1,12 @@
+# QR Code Generator 🔲
+
+A simple web app to generate and download QR codes for text or URLs. Built using HTML, CSS, and JavaScript.
+
+## Features
+- Enter text or URL
+- Generate QR code instantly
+- Download QR code as PNG
+- Stylish responsive UI
+
+## Author
+**Aman Choudhary**  
